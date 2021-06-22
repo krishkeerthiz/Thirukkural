@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">குறள்</string>
+    <string name="verse">குறள்:</string>
+    <string name="explanation">விளக்கம்:</string>
+    <string name = "sampleVerse">அகர முதல எழுத்தெல்லாம் ஆதி\n
+        பகவன் முதற்றே உலகு.</string>
+    <string name="sampleExplanation">எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது
+        அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது</string>
+    <string name="poet">திருவள்ளுவர்</string>
+    <string name="translate">த/E</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">குறள்</string>
+    <string name="verse">Verse:</string>
+    <string name="explanation">Explanation:</string>
+    <string name="poet">Thiruvalluvar</string>
+    <string name="translate">த/E</string>
+    <string name="sampleVerse">A, as its first of letters, every speech maintains;/nA, as its first of letters, every speech maintains</string>
+    <string name="sampleExplanation">As the letter A is the first of all letters, so the eternal God is first in the world A is the first of all letters, so the eternal God is
+        first in the world</string>
+</resources>
